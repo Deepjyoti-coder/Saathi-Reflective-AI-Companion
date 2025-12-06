@@ -1,0 +1,7 @@
+{
+  "name": "Saathi - Reflective AI Companion",
+  "description": "A calm, judgment-free reflective companion inspired by Indian philosophical wisdom. Offers voice and text interaction to help explore thoughts and emotions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
